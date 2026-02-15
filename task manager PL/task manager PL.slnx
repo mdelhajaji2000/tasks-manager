@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="task manager Bl/TaskManager.BussinessLogicLayer.csproj" Id="d1c51f3d-1c77-4c2e-89c9-a725fb5608db" />
+  <Project Path="task manager DAL/TaskManager.DataAccessLayer.csproj" Id="e6df5a71-1868-4a92-91aa-1cf6756aff10" />
+  <Project Path="task manager PL/TaskManager.PresentationLayer.csproj" Id="11710876-b962-45ec-8583-7d9d98c06c2c" />
+  <Project Path="TaskManager.Domain/TaskManager.Domain.csproj" Id="c5fefbbf-8dc0-484f-b58e-6d51b23ef9ce" />
+</Solution>
